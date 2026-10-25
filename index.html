@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mint Tôn Nữ - Founder Vua Tiệc Catering | Hồ Sơ Chuyên Gia F&B & Sự Kiện Hà Nội</title>
+    <meta name="description" content="Hồ sơ chính thức Mint Tôn Nữ - Founder Vua Tiệc Catering, cựu sinh viên The Hotel School Melbourne. Chuyên gia tư vấn & setup tiệc Teabreak, Finger Food, Buffet sự kiện tại Hà Nội.">
+    <meta name="keywords" content="Mint Tôn Nữ, Vua Tiệc Catering, Cana Event, Đặt tiệc Teabreak, Tiệc Finger Food, Tiệc Buffet, Catering Hà Nội">
+    
+    <!-- Open Graph for Social Networks -->
+    <meta property="og:title" content="Mint Tôn Nữ - Founder Vua Tiệc Catering">
+    <meta property="og:description" content="Chuyên gia tư vấn & setup tiệc Teabreak, Finger Food, Buffet sự kiện trọn gói tại Hà Nội.">
+    <meta property="og:image" content="https://cdn.prod.website-files.com/6ad9ce5f685886c1bf692c42/6ad9d030bf52af26d842032f_Mint%20T%C3%B4n%20N%E1%BB%AF.png">
+    <meta property="og:url" content="https://www.tonnumint.io.vn/">
+
+    <!-- Schema Structured Data (JSON-LD) cho Google Entity -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Person",
+          "@id": "https://www.tonnumint.io.vn/#person",
+          "name": "Mint Tôn Nữ",
+          "jobTitle": "Founder & Creative Director",
+          "image": "https://cdn.prod.website-files.com/6ad9ce5f685886c1bf692c42/6ad9d030bf52af26d842032f_Mint%20T%C3%B4n%20N%E1%BB%AF.png",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "Vua Tiệc Catering",
+            "url": "https://vuatiec.io.vn/"
+          },
+          "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "The Hotel School (Melbourne Campus, Australia)"
+          },
+          "url": "https://www.tonnumint.io.vn/",
+          "sameAs": [
+            "https://x.com/vuatiecvn",
+            "https://www.instagram.com/mint.vuatiec",
+            "https://www.facebook.com/vuatiec.io.vn"
+          ]
+        },
+        {
+          "@type": "FoodEstablishment",
+          "@id": "https://vuatiec.io.vn/#organization",
+          "name": "Vua Tiệc Catering",
+          "url": "https://vuatiec.io.vn/",
+          "founder": {
+            "@id": "https://www.tonnumint.io.vn/#person"
+          },
+          "areaServed": "Hà Nội",
+          "description": "Đơn vị chuyên nghiệp cung cấp giải pháp ẩm thực sự kiện trọn gói: Teabreak, Finger Food, Canapé, Buffet."
+        }
+      ]
+    }
+    </script>
+
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7; color: #2d3748; max-width: 900px; margin: 0 auto; padding: 30px 20px; background-color: #fff; }
+        h1 { color: #1a365d; border-bottom: 3px solid #3182ce; padding-bottom: 12px; font-size: 26px; }
+        h2 { color: #2b6cb0; margin-top: 30px; font-size: 20px; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px; }
+        h3 { color: #2d3748; font-size: 17px; margin-top: 15px; }
+        p { margin-bottom: 15px; }
+        a { color: #3182ce; text-decoration: none; font-weight: 600; }
+        a:hover { text-decoration: underline; color: #2b6cb0; }
+        
+        .profile-card { display: flex; align-items: center; gap: 25px; background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin: 20px 0; }
+        .profile-img { width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 4px solid #3182ce; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .profile-info { flex: 1; }
+        
+        .contact-box { background-color: #ebf8ff; border-left: 5px solid #3182ce; padding: 20px; border-radius: 0 8px 8px 0; margin-top: 25px; }
+        .contact-box ul { list-style-type: none; padding-left: 0; }
+        .contact-box li { margin-bottom: 10px; }
+
+        @media (max-width: 600px) {
+            .profile-card { flex-direction: column; text-align: center; }
+            .profile-img { width: 150px; height: 150px; }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Mint Tôn Nữ – Founder Vua Tiệc Catering & Chuyên Gia Giải Pháp F&B Sự Kiện Hà Nội</h1>
+
+    <div class="profile-card">
+        <img class="profile-img" src="https://cdn.prod.website-files.com/6ad9ce5f685886c1bf692c42/6ad9d030bf52af26d842032f_Mint%20T%C3%B4n%20N%E1%BB%AF.png" alt="Mint Tôn Nữ - Founder Vua Tiệc Catering">
+        <div class="profile-info">
+            <h2 style="margin-top:0; border:none; padding:0; color:#1a365d;">Mint Tôn Nữ</h2>
+            <p><strong>Chức vụ:</strong> Founder & Creative Director tại Vua Tiệc Catering</p>
+            <p><strong>Học vấn:</strong> Quản trị Khách sạn & Sự kiện – The Hotel School (Melbourne Campus, Australia)</p>
+            <p><strong>Lĩnh vực chuyên môn:</strong> Tư vấn, thiết kế menu & setup trọn gói tiệc Teabreak, Finger Food, Canapé, Buffet sự kiện doanh nghiệp tại Hà Nội.</p>
+        </div>
+    </div>
+
+    <h2>1. Tiểu Sử & Năng Lực Chuyên Môn</h2>
+    <p><strong>Mint Tôn Nữ</strong> là Nhà sáng lập (Founder) kiêm Giám đốc Sáng tạo của thương hiệu <a href="https://vuatiec.io.vn/" target="_blank">Vua Tiệc Catering</a>. Tốt nghiệp bài bản chuyên ngành Quản trị Khách sạn & Sự kiện tại <strong>The Hotel School (Melbourne Campus, Australia)</strong>, cô mang tư duy vận hành F&B chuẩn quốc tế về ứng dụng thực tế tại thị trường Việt Nam.</p>
+    <p>Dưới sự dẫn dắt của Mint Tôn Nữ, Vua Tiệc Catering đã phục vụ hàng trăm tiệc lưu động lớn nhỏ cho các tập đoàn, tổ chức, hội nghị khoa học, lễ ra mắt sản phẩm và workshop công nghệ trên toàn địa bàn Hà Nội.</p>
+    <p>Xem hồ sơ cá nhân và nhật ký F&B chính thức: <a href="https://www.tonnumint.io.vn/" target="_blank">Hồ sơ Mint Tôn Nữ</a>.</p>
+
+    <h2>2. Dịch Vụ Cốt Lõi Tại Vua Tiệc Catering</h2>
+    <p>Thương hiệu <a href="https://vuatiec.io.vn/" target="_blank">Vua Tiệc Catering</a> tập trung vào 3 giải pháp ẩm thực sự kiện chính:</p>
+
+    <h3>Dịch Vụ Tiệc Teabreak (Tiệc Trà Giữa Giờ)</h3>
+    <p>Giải pháp tối ưu cho hội thảo, lễ khai trương và khóa đào tạo. Thực đơn phong phú gồm bánh pastry ngọt/mặn, hoa quả tươi theo mùa, trà thượng hạng và cà phê nguyên chất.</p>
+    <p>👉 Tham khảo thực đơn và báo giá: <a href="https://vuatiec.io.vn/dat-tiec-teabreak/" target="_blank">Đặt tiệc Teabreak trọn gói</a></p>
+
+    <h3>Dịch Vụ Tiệc Finger Food & Canapé</h3>
+    <p>Mô hình tiệc nhẹ hiện đại, sang trọng với các món ăn one-bite chế biến tinh tế, phục vụ cho các buổi tiệc cocktail VIP, triển lãm nghệ thuật và giao lưu B2B.</p>
+    <p>👉 Tham khảo thực đơn chi tiết: <a href="https://vuatiec.io.vn/tiec-finger-food/" target="_blank">Dịch vụ tiệc Finger Food cao cấp</a></p>
+
+    <h3>Dịch Vụ Tiệc Buffet Sự Kiện</h3>
+    <p>Mô hình tiệc tự chọn quy mô lớn với menu phong phú kết hợp ẩm thực Á - Âu, đáp ứng các sự kiện tiệc tất niên doanh nghiệp (YEP), tiệc mừng sinh nhật công ty và hội nghị khách hàng.</p>
+    <p>👉 Khám phá gói tiệc: <a href="https://vuatiec.io.vn/tiec-buffet/" target="_blank">Dịch vụ tiệc Buffet chuyên nghiệp</a></p>
+
+    <h2>3. Hệ Sinh Thái Đối Tác Strategic</h2>
+    <p>Để đảm bảo trọn gói từ không gian sân khấu, âm thanh ánh sáng cho đến ẩm thực bàn tiệc, Mint Tôn Nữ hợp tác liên kết chặt chẽ với đối tác <a href="https://canaevent.io.vn/" target="_blank">Cana Event</a> – đơn vị chuyên trách thi công và cung cấp thiết bị sự kiện uy tín tại Hà Nội.</p>
+
+    <div class="contact-box">
+        <h3 style="margin-top:0;">Kênh Thông Tin & Mạng Xã Hội Chính Thức:</h3>
+        <ul>
+            <li>🌐 <strong>Trang chủ dịch vụ:</strong> <a href="https://vuatiec.io.vn/" target="_blank">https://vuatiec.io.vn/</a></li>
+            <li>👤 <strong>Trang cá nhân Mint Tôn Nữ:</strong> <a href="https://www.tonnumint.io.vn/" target="_blank">https://www.tonnumint.io.vn/</a></li>
+            <li>🎪 <strong>Đối tác Cana Event:</strong> <a href="https://canaevent.io.vn/" target="_blank">https://canaevent.io.vn/</a></li>
+            <li>📘 <strong>Facebook:</strong> <a href="https://www.facebook.com/vuatiec.io.vn" target="_blank">Vua Tiệc Catering Facebook</a></li>
+            <li>📸 <strong>Instagram:</strong> <a href="https://www.instagram.com/mint.vuatiec" target="_blank">@mint.vuatiec</a></li>
+            <li>🐦 <strong>X (Twitter):</strong> <a href="https://x.com/vuatiecvn" target="_blank">@vuatiecvn</a></li>
+        </ul>
+    </div>
+
+</body>
+</html>
